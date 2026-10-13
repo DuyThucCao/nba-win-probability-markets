@@ -1,0 +1,79 @@
+{
+  "games": 19822,
+  "matched_to_basketball_reference": 19822,
+  "dates_corrected": 12,
+  "scores_corrected": 12,
+  "unmatched_kept_archive_date": 0,
+  "corrected_examples": [
+    {
+      "season": "2007-08",
+      "away_team": "Miami",
+      "home_team": "Cleveland",
+      "archive": "2007-12-24",
+      "official": "2007-12-25"
+    },
+    {
+      "season": "2007-08",
+      "away_team": "Phoenix",
+      "home_team": "LALakers",
+      "archive": "2007-12-24",
+      "official": "2007-12-25"
+    },
+    {
+      "season": "2007-08",
+      "away_team": "OklahomaCity",
+      "home_team": "Portland",
+      "archive": "2007-12-24",
+      "official": "2007-12-25"
+    },
+    {
+      "season": "2008-09",
+      "away_team": "Orlando",
+      "home_team": "LALakers",
+      "archive": "2009-06-03",
+      "official": "2009-06-04"
+    },
+    {
+      "season": "2009-10",
+      "away_team": "Utah",
+      "home_team": "LALakers",
+      "archive": "2010-05-03",
+      "official": "2010-05-02"
+    },
+    {
+      "season": "2010-11",
+      "away_team": "Chicago",
+      "home_team": "NewYork",
+      "archive": "2010-12-24",
+      "official": "2010-12-25"
+    },
+    {
+      "season": "2010-11",
+      "away_team": "Boston",
+      "home_team": "Orlando",
+      "archive": "2010-12-24",
+      "official": "2010-12-25"
+    },
+    {
+      "season": "2010-11",
+      "away_team": "Miami",
+      "home_team": "LALakers",
+      "archive": "2010-12-24",
+      "official": "2010-12-25"
+    },
+    {
+      "season": "2010-11",
+      "away_team": "Denver",
+      "home_team": "OklahomaCity",
+      "archive": "2010-12-24",
+      "official": "2010-12-25"
+    },
+    {
+      "season": "2010-11",
+      "away_team": "Portland",
+      "home_team": "GoldenState",
+      "archive": "2010-12-24",
+      "official": "2010-12-25"
+    }
+  ]
+}

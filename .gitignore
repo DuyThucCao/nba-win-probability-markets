@@ -1,0 +1,7 @@
+# Source pages and the derived odds table are not redistributed;
+# run_all.py downloads and rebuilds them locally.
+data/raw/
+data/processed/
+results/predictions.csv
+__pycache__/
+.DS_Store
