@@ -128,3 +128,9 @@ python -m pip install -r requirements.txt
 python run_all.py                          # first run downloads ~170 pages (about 10 min)
 python -m unittest discover -s tests -v
 ```
+
+## License
+
+Code is released under the MIT License (see `LICENSE`). Odds data and
+Basketball-Reference schedules belong to their publishers and are not
+included in this repository.
